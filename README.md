@@ -1,4 +1,4 @@
-# 💻 IT Job Demand Forecasting
+# 💻 IT Job Demand Forecasting Using Time Series Models
 
 <p align="center">
   <b>Forecasting IT Hiring Trends using ARIMA, SARIMA & Box-Jenkins Methodology</b>
